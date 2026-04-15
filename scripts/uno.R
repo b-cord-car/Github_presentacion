@@ -21,3 +21,6 @@ pval <- pt(tcalc,9,lower.tail = TRUE)*2
 #Se rechaza Ho
 t.test(antes,despues, paired = TRUE)
 #Hay diferencias en el peso de ratones antes y despues del tratamiento
+
+
+#Modificacion
