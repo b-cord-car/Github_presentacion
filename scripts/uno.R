@@ -20,7 +20,7 @@ tcrit <- qt(0.025,9)
 pval <- pt(tcalc,9,lower.tail = TRUE)*2
 #Se rechaza Ho
 #Modificacion
-#Modificacion
+1+1++1
 
 # Pregunta 2
 # Datos:
